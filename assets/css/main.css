@@ -121,7 +121,7 @@
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", sans-serif;
+		font-family: "Arial", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -147,7 +147,7 @@
 	}
 
 	em, i {
-		font-style: italic;
+		font-style: normal;;
 	}
 
 	p {
@@ -155,9 +155,9 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #green;
 		font-weight: 600;
-		line-height: 1.5;
+		line-height: 2.0;
 		margin: 0 0 1rem 0;
 		text-transform: uppercase;
 		letter-spacing: 0.2rem;
